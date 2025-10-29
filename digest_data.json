@@ -1,0 +1,28 @@
+{
+  "table_1": [
+    ["Toyota", "LC300 GR Sport", "2025-04-15", "19", "145161", "A"],
+    ["Nissan", "Patrol Warrior", "2025-03-10", "15", "105160", "A"],
+    ["BYD", "Shark 6", "2025-10-01", "26", "57900", "A"]
+  ],
+  "table_2": [
+    ["BYD", "Bao 5", "2025-Q4", "A"],
+    ["Toyota", "LC300 Hybrid", "2026-H1", "B"],
+    ["Scout", "Terra", "2027-Q2", "A"]
+  ],
+  "regulatory": [
+    ["ADR 85/00 – off-road brake ≤45 m", "AU", "Front bar ≤35 kg; composite discs"],
+    ["Euro 7 – snorkel back-pressure", "EU", "≤2 kPa; washable filter redesign"],
+    ["China GB 7258 – bilingual winch", "CN", "EN/CN label ≥2 mm; cut-off switch"]
+  ],
+  "search_insights": [
+    ["factory overland package", "+340%", "Built-in 6 kW inverter & roof-tent wiring"],
+    ["800 v caravan charging", "+289%", "350 A DC-DC module for camp-site fast charge"],
+    ["composite bash plates", "+211%", "5083-H321 panel for ADR 85/00 compliance"]
+  ],
+  "executive_summary": [
+    "1. Finalise 5083 bash-plate CAD for BYD Bao 5 – NPV $4.1 M",
+    "2. Submit 800 V DC-DC 50 A module listing – NPV $2.4 M",
+    "3. Release Patrol Warrior winch-bar ≤35 kg – NPV $1.8 M"
+  ]
+}
+
