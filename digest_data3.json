@@ -1,0 +1,37 @@
+{
+  "sections": [
+    {
+      "name": "Table 1 – Vehicles Launched Last 6 Months",
+      "description": "Summarise vehicles launched in the last 6 months in the AU market. Include Manufacturer, Model, Launch Date, Units Sold, Price AUD, and Confidence rating. Focus on key insights rather than raw numbers.",
+      "format": "text_table",
+      "columns": ["Manufacturer", "Model", "Launch", "Units", "Price AUD", "Conf"]
+    },
+    {
+      "name": "Table 2 – Future Releases",
+      "description": "Summarise upcoming vehicle releases, including expected arrival window and confidence rating. Highlight notable trends or anticipated market impact.",
+      "format": "text_table",
+      "columns": ["Manufacturer", "Model", "Exp Arrival", "Conf"]
+    },
+    {
+      "name": "Regulatory & Compliance Summary",
+      "description": "Summarise relevant regulatory and compliance developments across key regions (AU, EU, CN). Include rules, restrictions, and notes that could impact vehicle products or market strategy.",
+      "format": "bullet_points"
+    },
+    {
+      "name": "Consumer Search Insight",
+      "description": "Analyse recent search trends and spikes in interest. Highlight emerging consumer behaviours, high-demand features, or areas of product opportunity.",
+      "format": "bullet_points"
+    },
+    {
+      "name": "Executive Summary – Product Actions",
+      "description": "Provide concise, actionable recommendations or next-step priorities based on market data, regulatory updates, and consumer insights. Present items in priority order where possible.",
+      "format": "bullet_points"
+    }
+  ],
+  "metadata": {
+    "report_title": "AU-4×4 Off-Road Market Digest",
+    "timezone": "AEDT",
+    "next_cycle": "Monday 11:01 AEDT",
+    "source": "digest_data.json"
+  }
+}
